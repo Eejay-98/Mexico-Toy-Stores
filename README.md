@@ -36,7 +36,8 @@ I created a measures table using the Enter data from the home tab. There I house
 Functions used includes, COUNT, SUM AND CALCULATE.
 
 ## Data Modelling
-This model has 2 facts table and 2 dimension tables. 
+This model has 2 facts table and 2 dimension tables.
+
 ![](modelling.png)
 ---
 
