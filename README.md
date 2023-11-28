@@ -20,9 +20,13 @@ Mexico, country of southern North America and the third largest country in Latin
 ## Data Source
 This data was gotten from the Maven Analytics playground. Here is the link for your reference.
 It contains 4 tables.
-1.Inventory table with 1,593 rows and 3 columns
+
+1.Inventory table with 1,593 rows and 3 columns.
+
 2.Product table with 35 rows and 5 columns
+
 3.Sales table with 829,262 rows and 9 columns
+
 4.Store table with 50 rows and 5 columns
 
 ## Data Cleaning
