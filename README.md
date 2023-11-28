@@ -14,8 +14,8 @@ Mexico, country of southern North America and the third largest country in Latin
 2.	What was the revenue made yearly?
 3.	What are the cities with the highest gross profit?
 4.	Are the sales on weekends higher than the sales on weekdays?
-•	What product is the highest stock on hand? And is that product amongst the products with the highest units sold?
-•	Are the stores founded in the 2000’s making more sales as compared to the stores in the 1990’s?
+5. What product is the highest stock on hand? And is that product amongst the products with the highest units sold?
+6. Are the stores founded in the 2000’s making more sales as compared to the stores in the 1990’s?
 
 ## Data Source
 This data was gotten from the Maven Analytics playground. Here is the (link) https://mavenanalytics.io/data-playground?search=mexico for your reference.
