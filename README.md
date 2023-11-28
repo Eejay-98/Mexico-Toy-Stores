@@ -18,7 +18,7 @@ Mexico, country of southern North America and the third largest country in Latin
 •	Are the stores founded in the 2000’s making more sales as compared to the stores in the 1990’s?
 
 ## Data Source
-This data was gotten from the Maven Analytics playground. Here is the link for your reference.
+This data was gotten from the Maven Analytics playground. Here is the (link) https://mavenanalytics.io/data-playground?search=mexico for your reference.
 It contains 4 tables.
 
 1.Inventory table with 1,593 rows and 3 columns.
@@ -57,7 +57,7 @@ Exec dashboard      |  Exec dashboard with filter
 ![](Exec_dash.png)  | ![](Exec_filterpane.png)
 ---
 
-## Product dashbaord
+## Product dashboard
 ![](Product_dash.png)
 ---
 
